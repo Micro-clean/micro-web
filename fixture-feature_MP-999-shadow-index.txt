@@ -2,4 +2,5 @@ repository=Micro-clean/micro-web
 branch=feature/MP-999-shadow-index
 created_at=2025-10-20T09:10:00+05:30
 claimed_jira=MP-999
-phase=initial
+phase=migration-handoff
+last_commit=2026-04-15T12:40:00+05:30
